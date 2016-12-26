@@ -1,5 +1,4 @@
 var uuid = require('uuid')
-var infinite = require('pull-stream/sources/infinite')
 
 module.exports = function (options) {
   var _options = typeof options == 'object' ? options : {

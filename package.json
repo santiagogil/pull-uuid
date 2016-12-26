@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/santiagogil/pull-uuid#readme",
   "dependencies": {
-    "pull-stream": "^3.5.0",
     "uuid": "^3.0.1"
   }
 }
