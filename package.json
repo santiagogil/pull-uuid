@@ -1,6 +1,6 @@
 {
   "name": "pull-uuid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "uuid generation as an infinite pull stream",
   "main": "index.js",
   "scripts": {
