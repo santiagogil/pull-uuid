@@ -1,4 +1,6 @@
 # pull-uuid
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/santiagogil/pull-uuid.svg)](https://greenkeeper.io/)
 uuid generation as an infitite pull stream
 
 ## Usage
